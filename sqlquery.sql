@@ -2,3 +2,4 @@ select
     * 
 from 
     table1
+    
